@@ -11,7 +11,7 @@
     7. Correlation
     8. Feature Engineering
     9. Practise
-2. [POST- Part of Speach Tagging]()
+2. [POST- Part of Speach Tagging](notebooks/POST.ipynb)
    1. Example
    2. Practise
 3. [NER- Named Entity Recognition]()
