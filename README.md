@@ -1,7 +1,7 @@
 # NLP - Natural Language Processing
 ![alt text](assets/imgs/logo.2.jpg)
 ## content of the repository
-1. [EDA - Exploratory Data Analysis]()
+1. [EDA - Exploratory Data Analysis](notebooks/EDA.ipynb)
     1. Data types
     2. Missing Values
     3. Duplicates
