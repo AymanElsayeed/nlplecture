@@ -32,6 +32,6 @@
 6. [Cosine Similarity](notebooks/Cosine%20Similarity.ipynb)
    1. Example
    2. Practise
-7. [Neural Networks]()
-    1. [Introduction to Neural Networks]()
+7. [Neural Networks](notebooks/PyTorch)
+    1. [Introduction to Neural Networks](notebooks/PyTorch/Intro_NN.ipynb)
     2. [RNN]()
