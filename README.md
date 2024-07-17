@@ -24,7 +24,7 @@
     4. Lemmatization
     6. Tokenization
     7. Practise
-5. [Vectorizing]()
+5. [Vectorizing](notebooks/Vectorizing.ipynb)
    1. Count Vectorization
    2. TF-IDF Vectorization
    3. N-Grams
