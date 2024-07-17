@@ -11,23 +11,27 @@
     7. Correlation
     8. Feature Engineering
     9. Practise
-2. [POST- Part of Speach Tagging -]()
-3. [NER- Named Entity Recognition -]()
-4. [Cleaning / Preprocessing-]()
+2. [POST- Part of Speach Tagging]()
+   1. Example
+   2. Practise
+3. [NER- Named Entity Recognition]()
+   1. Example
+   2. Practise
+4. [Cleaning / Preprocessing]()
     1. Removing Punctuation
     2. Removing Stopwords
     3. Stemming 
     4. Lemmatization
     6. Tokenization
-   7. Practise
-5. [Vectorizing-]()
+    7. Practise
+5. [Vectorizing]()
    1. Count Vectorization
    2. TF-IDF Vectorization
    3. N-Grams
    4. Practise
-6. [Cosine Similarity-]()
+6. [Cosine Similarity]()
    1. Example
    2. Practise
-7. [Neural Networks-]()
-    1. [Introduction to Neural Networks-]()
-    2. [RNN -]()
+7. [Neural Networks]()
+    1. [Introduction to Neural Networks]()
+    2. [RNN]()
