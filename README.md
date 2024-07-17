@@ -14,7 +14,7 @@
 2. [POST- Part of Speach Tagging](notebooks/POST.ipynb)
    1. Example
    2. Practise
-3. [NER- Named Entity Recognition]()
+3. [NER- Named Entity Recognition](notebooks/NER.ipynb)
    1. Example
    2. Practise
 4. [Cleaning / Preprocessing](notebooks/Preprocessing.ipynb)
