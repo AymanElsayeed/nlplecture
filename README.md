@@ -29,7 +29,7 @@
    2. TF-IDF Vectorization
    3. N-Grams
    4. Practise
-6. [Cosine Similarity]()
+6. [Cosine Similarity](notebooks/Cosine%20Similarity.ipynb)
    1. Example
    2. Practise
 7. [Neural Networks]()
