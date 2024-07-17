@@ -17,7 +17,7 @@
 3. [NER- Named Entity Recognition]()
    1. Example
    2. Practise
-4. [Cleaning / Preprocessing]()
+4. [Cleaning / Preprocessing](notebooks/Preprocessing.ipynb)
     1. Removing Punctuation
     2. Removing Stopwords
     3. Stemming 
