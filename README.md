@@ -35,3 +35,4 @@
 7. [Neural Networks](notebooks/PyTorch)
     1. [Introduction to Neural Networks](notebooks/PyTorch/Intro_NN.ipynb)
     2. [RNN](notebooks/PyTorch/RNN_model.ipynb)
+    3. [LSTM](notebooks/PyTorch/LSTM_model.ipynb) 
