@@ -1,5 +1,5 @@
 # NLP - Natural Language Processing
-![alt text](assets/imgs/logo.1.jpeg)
+![alt text](assets/imgs/logo.2.jpg)
 ## content of the repository
 1. [EDA - Exploratory Data Analysis]()
     1. Data types
