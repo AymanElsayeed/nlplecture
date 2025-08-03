@@ -12,7 +12,7 @@ stop_words = set(stopwords.words('english'))
 
 def count_stop_words(df, column_name, _stop_words):
     """
-    count the amount of stop words in a column.
+    count the number of stop words in a column.
     :param df: dataframe
     :param column_name: column name
     :param _stop_words: stop words
